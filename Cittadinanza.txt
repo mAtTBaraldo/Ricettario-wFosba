@@ -14,5 +14,6 @@ Il ricettario, in origine è un libro che contiene le ricette, con lo sviluppo d
 
 Codice in python:
 Strutture dati per salvare le ricette-> dizionario con divisione primi, secondi e dessert con controllo per non re inserire ricette già presenti;
+set magari con classe;
 lista dinamica fatta di dizionari per il menù;
 tutto in cli.
