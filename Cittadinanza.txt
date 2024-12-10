@@ -1,0 +1,18 @@
+RICETTARIO->Cittadinanza
+Diritti d'Autore:
+Il ricettario tratta questo argomento, dato che le diverse ricette per le pietanze sono inevitabilmente state inventate da qualcuno o sono legate a qualche nazione per tradizione, come la pasta, che è stata inventata dagli italiani e sin dalla sua nascita rappresenta un cibo molto rinomato e nutriente.
+
+Alimentazione:
+Il ricettario offre una varia scelta di pietanze, che utilizzano alimenti più o meno costosi, quindi abbiamo una ampia scelta di piatti tra cui scegliere.
+
+Rispetto e valorizzazione del patrimonio culturale:
+Molti piatti, come la pizza, nel giro degli anni sono diventati patrimonio culturale, le ricette permettono di ricreare queste pietanze nel modo più corretto possibile (nonostante ci sono dei ritardati che non lo rispettano) andando a ricreare il piatto ed assaporando i gusti nel modo più "vicino" a quello che era stato pensato.
+
+Dipendenza digitale:
+Il ricettario, in origine è un libro che contiene le ricette, con lo sviluppo della tecnologia abbiamo ricettari online dove è possibile consultare milioni di ricette nel giro di secondi.
+
+
+Codice in python:
+Strutture dati per salvare le ricette-> dizionario con divisione primi, secondi e dessert con controllo per non re inserire ricette già presenti;
+lista dinamica fatta di dizionari per il menù;
+tutto in cli.
